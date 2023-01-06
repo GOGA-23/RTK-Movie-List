@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/RTK-Movie-List/static/css/main.ed12bc7c.css",
-    "main.js": "/RTK-Movie-List/static/js/main.74e7589b.js",
+    "main.js": "/RTK-Movie-List/static/js/main.91215269.js",
     "static/media/user.png": "/RTK-Movie-List/static/media/user.72257c190de39f981072.png",
     "static/media/page-404.jpg": "/RTK-Movie-List/static/media/page-404.8c602802b8e1106af9f4.jpg",
     "static/media/no-poster-available.jpg": "/RTK-Movie-List/static/media/no-poster-available.7555b15218a0f4733bf7.jpg",
     "index.html": "/RTK-Movie-List/index.html",
     "main.ed12bc7c.css.map": "/RTK-Movie-List/static/css/main.ed12bc7c.css.map",
-    "main.74e7589b.js.map": "/RTK-Movie-List/static/js/main.74e7589b.js.map"
+    "main.91215269.js.map": "/RTK-Movie-List/static/js/main.91215269.js.map"
   },
   "entrypoints": [
     "static/css/main.ed12bc7c.css",
-    "static/js/main.74e7589b.js"
+    "static/js/main.91215269.js"
   ]
 }
