@@ -1,0 +1,95 @@
+.movie-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.wrapper {
+  background-color: #03011a;
+  display: flex;
+  flex-wrap: wrap-reverse;
+  justify-content: space-around;
+  align-items: center;
+  padding: 20px;
+  margin-top: 5rem;
+  border-radius: 15px;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+  .section-left {
+    padding: 5px;
+    margin: 0 25px;
+    width: 70%;
+  }
+
+  h2 {
+    margin-bottom: 10px;
+    font-weight: 600;
+    font-size: 2.2rem;
+    color: lightskyblue;
+  }
+
+  .movie-rating,
+  .movie-plot,
+  .movie-director,
+  .movie-stars,
+  .movie-genre,
+  .movie-lang,
+  .movie-award {
+    margin-bottom: 12px;
+  }
+
+  .movie-rating {
+    font-size: 1.1rem;
+    color: #0092c3;
+  }
+  .color {
+    color: #0092c3;
+  }
+
+  .movie-rating span {
+    margin-right: 2.2rem;
+  }
+  .fa-solid {
+    margin: 0 5px;
+  }
+  .fa-star {
+    color: #ffd504;
+  }
+
+  .fa-thumbs-up {
+    color: #6b6a6a;
+  }
+
+  .fa-person-running {
+    color: greenyellow;
+  }
+
+  .fa-calendar-days {
+    color: lightcoral;
+  }
+
+  .movie-plot {
+    text-align: justify;
+  }
+
+  .movie-director span {
+    margin-right: 3rem;
+  }
+
+  .movie-stars span {
+    margin-right: 4.3rem;
+  }
+  .movie-genre span {
+    margin-right: 3.8rem;
+  }
+
+  .movie-lang span {
+    margin-right: 1.8rem;
+  }
+
+  .movie-award span {
+    margin-right: 3.2rem;
+  }
+
+  .section-right img {
+    border: 2px solid #6a0101;
+  }
+}
